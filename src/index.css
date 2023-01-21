@@ -1,0 +1,6 @@
+body{
+  background-color: #2451b1a8;
+}
+.text {
+  filter: drop-shadow(3px 1px 5px #000000);
+}
